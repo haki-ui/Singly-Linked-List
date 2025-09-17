@@ -1,0 +1,1 @@
+A singly linked list is a linear data structure made up of nodes, where each node contains data and a reference to the next node in the sequence. It starts from a head node and ends at a node whose next reference is null, marking the end of the list. This structure allows efficient insertion and deletion but requires sequential traversal to access elements.
